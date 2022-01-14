@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Removed_a-dynamic-image asin-image</name>
+   <tag></tag>
+   <elementGuidId>81440215-dab1-4aef-88a6-796d9d9a86aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='asin_list']/div/div[2]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.a-dynamic-image.asin-image</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>boAt Rockerz 205 Pro Wireless Neckband with Beast™ Mode, ENx™ Mode for Clear Voice Delivery, ASAP™ Charge, 10mm Drivers…</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images-eu.ssl-images-amazon.com/images/I/517YCif3dsL._AC_UL400_SR300,400_.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-dynamic-image asin-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>boAt Rockerz 205 Pro Wireless Neckband with Beast&amp;trade; Mode, ENx&amp;trade; Mode for Clear Voice Delivery, ASAP&amp;trade; Charge, 10mm Drivers, IPX5, Bluetooth v5.2, 30HRS Playtime(Fiery Red)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>200</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>150</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-dynamic-image</name>
+      <type>Main</type>
+      <value>{&quot;https://images-eu.ssl-images-amazon.com/images/I/517YCif3dsL._AC_UL600_SR450,600_.jpg&quot;:[600,450],&quot;https://images-eu.ssl-images-amazon.com/images/I/517YCif3dsL._AC_UL400_SR300,400_.jpg&quot;:[400,300],&quot;https://images-eu.ssl-images-amazon.com/images/I/517YCif3dsL._AC_UL200_SR150,200_.jpg&quot;:[200,150]}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;asin_list&quot;)/div[@class=&quot;a-section a-spacing-none asin_container&quot;]/div[@class=&quot;a-section a-padding-base asin-faceout&quot;]/a[@class=&quot;a-link-normal asin-faceout-link&quot;]/img[@class=&quot;a-dynamic-image asin-image&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='asin_list']/div/div[2]/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='boAt Rockerz 205 Pro Wireless Neckband with Beast™ Mode, ENx™ Mode for Clear Voice Delivery, ASAP™ Charge, 10mm Drivers…']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>
